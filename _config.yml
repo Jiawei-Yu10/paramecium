@@ -25,13 +25,13 @@ repository               : "Jiawei-Yu10/paramecium.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Jiawei Yu"
+  pronouns         : "she/her"  
+  bio              : "PhD student working on gene regulatory networks switch."
+  location         : "Edinburgh, United Kigdom"
+  employer         : "University of Edinburgh"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "s2756340@ed.ac.uk" 
 
   # Academic websites
   academia         : # URL
