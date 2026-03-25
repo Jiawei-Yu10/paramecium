@@ -13,9 +13,8 @@ title                    : "Jiawei Yu / Research Notes"
 title_separator          : "-"
 name                     : &name "Jiawei Yu"
 description              : &description "A first-year biology PhD student from the University of Edinburgh"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://Jiawei-Yu10.github.io"
-baseurl                  : "/paramecium.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://Jiawei-Yu10.github.io/paramecium" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"                                           
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jiawei-Yu10/paramecium.github.io" 
 
